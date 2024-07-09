@@ -1,4 +1,4 @@
-<h1 align="center">PLANN.ER</h1>
+<h1 align="center">PLANN.ER - PYTHON</h1>
 
 ## About this Project
 
